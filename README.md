@@ -19,16 +19,16 @@
 
 This is a screenshot of the home page:
 
-![About Page](./public/assets/images/SDN home.JPG)
+![Home Page](./public/assets/images/SDN home.JPG)
 
 This is a screenshot of the city page where people can go and blog about events happening in and around their city.
 
-![About Page](./public/assets/images/SDN City.JPG)
+![City Page](./public/assets/images/SDN City.JPG)
 
 This is a screenshot of the Resources page where people can go and see a map of resources available in their city.
 
-![About Page](./public/assets/images/SDN City.JPG)
+![Resources Page](./public/assets/images/SDN_Resources.JPG)
 
 This is a screenshot of the News page where people can go and see covid-19 current news.
 
-![About Page](./public/assets/images/sdn news.JPG)
+![News Page](./public/assets/images/sdn news.JPG)
